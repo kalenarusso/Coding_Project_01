@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(240, 240, 240);
+    color: rgb(60,60,60);
+    padding:20px;
+    font-family; 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;     
+}
+h1 {
+    font size: 40px;
+}
+
+p {
+    font size: 18px;
+}
+
+#username, #email {
+    color:rgb(60,60,60);
+    background-color: white;
+    border-color: rgb(120,120,120);
+    border-width: 2px;
+    border-radius: 2.5px;
+}
+
+#comments {
+    color: rgb(60,60,60);
+    background-color: white;
+    border-color: rgb(120,120,120);
+    border-width: 2px;
+    border-radius: 2.5px;
+    width: 300px;
+    height: 150px;
+}
+
+button {
+    margin: 10px;
+}
+
+button.hover {
+    cursor: pointer;
+}
+
+section {
+    background-color: white;
+    border-radius: 2.5px;
+    border-color:rgb(120,120,120);
+    color:rgb(60,60,60);
+    word-wrap: break-word;
+    padding: 10px;
+}
+
+.tooltip-input {
+    background-color: rgb(230,230,230);
+}
